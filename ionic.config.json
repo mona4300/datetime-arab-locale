@@ -1,0 +1,8 @@
+{
+  "name": "datetime-arab-locale",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "e4e128eb"
+}
